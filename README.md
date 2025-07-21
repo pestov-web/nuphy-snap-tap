@@ -135,6 +135,3 @@ Report:    .. → A. → .D → A.
 **License**: MIT
 **Author**: i am
 
-```
-
-```
