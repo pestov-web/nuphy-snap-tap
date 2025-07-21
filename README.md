@@ -1,4 +1,4 @@
-# NuPhy Halo75 v2 QMK Mod: Режимы обработки противоположных клавиш
+# NuPhy Halo75 v2 QMK Mod: Режимы обработки противоположных клавиш (snap tap)
 
 **Русский** | [English](#english-version)
 
@@ -73,7 +73,7 @@
 
 ## 🎯 Project Overview
 
-QMK firmware modification for NuPhy Halo75 v2 implementing dual-mode opposite key handling (WASD):
+QMK firmware modification for NuPhy Halo75 v2 implementing dual-mode opposite key handling (snap tap):
 
 ### 🔄 Cancellation Mode (default)
 
