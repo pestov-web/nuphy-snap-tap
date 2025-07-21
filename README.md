@@ -132,10 +132,6 @@ Report:    .. → A. → .D → A.
 
 ---
 
-## 🧩 Technical Implementation
-
----
-
 **License**: MIT
 **Author**: i am
 
